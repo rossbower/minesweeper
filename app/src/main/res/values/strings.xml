@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="try_txt">TRY</string>
+    <string name="flag_txt">FLAG</string>
+    <string name="over_txt">GAME OVER</string>
+    <string name="restart_txt">Restart</string>
+    <string name="mode_txt">You are now in %1$s mode</string>
+    <string name="won_txt">You won!</string>
+    <color name="background">#FFFFFF</color>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="directions">Select a level to play</string>
+</resources>
